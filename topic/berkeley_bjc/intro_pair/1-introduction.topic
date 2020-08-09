@@ -1,27 +1,37 @@
-title: Welcome to Snap<em>!</em>
+title: Willkommen zu Snap<em>!</em>
 
 {
 h2: Big Ideas
-große-Idee: Erkunde die Abstraktion durch Snap! Blöcke, wie es sich auf Informatik (CS) 
-große-Idee: bezieht: Erkunden Sie sequenzielle Programmierung 
-große-Idee:: Verstehen und analysieren Sie einige der Auswirkungen des Internets auf unsere Kultur
-//   video: Video Lecture: Abstraction [https://coursesharing.org/courses/6/lectures/7]
+große-Idee: Erkunde die Abstraktion durch Snap! Blöcke, wie es sich auf Informatik (CS) bezieht
+große-Idee: Erkunde funktionale Programmierung 
+große-Idee:: Verstehe und analysiere  einige der Auswirkungen des Internets auf unsere Kultur
+//   video: Video Lecture: Abstraktion [https://coursesharing.org/courses/6/lectures/7]
   reading: Blown To Bits: Chapter 1 [http://www.bitsbook.com/wp-content/uploads/2008/12/chapter1.pdf]
 
 
 h2: Activities
+<!-- Write your comments here 
 learning-goal: Familiarize yourself with the Snap<em>!</em> interface
 learning-goal: Make a Snap<em>!</em> account to save and load projects
 learning-goal: Make a sprite sing
 learning-goal: Learn to use the mouse to move sprites around the screen.
 learning-goal: Make a Kaleidoscope
+-->
+
+learning-goal: Machen Sie sich mit der Snap Benutzeroberfläche vertraut! 
+learning-goal: Erstelle ein Snap<em>!</em> Konto zum Speichern und Laden von Projekten 
+learning-goal: Mache ein Sprite sing 
+learning-goal: Lerne, die Maus zu verwenden, um Figuren um den Bildschirm zu bewegen. 
+learning-goal: Baue Sie ein Kaleidoskop
+
+
 
 heading: Introduction to Snap<em>!</em>
   resource: Introduction to Pair Programming [/bjc-r/cur/programming/guides/pair-programming-intro.html]
   resource: Piazza Set-Up [/bjc-r/cur/programming/guides/piazza-setup.html]
-  resource: Welcome to Snap<em>!</em> [/bjc-r/cur/programming/intro/snap/welcome-to-snap2.html]
+  resource: Willkommen zu Snap<em>!</em> [/bjc-r/cur/programming/intro/snap/welcome-to-snap2.html]
   resource: Overview of the Window [/bjc-r/cur/programming/intro/snap/exploring-snap-overview-of-window.html]
-  resource: Blocks [/bjc-r/cur/programming/intro/snap/exploring-snap-blocks.html]
+  resource: Blcks [/bjc-r/cur/programming/intro/snap/exploring-snap-blocks.html]
   resource: Pair Programming Swap [/bjc-r/cur/programming/guides/pair-programming-swap.html?1]
   resource: Scripts [/bjc-r/cur/programming/intro/snap/exploring-snap-scripts.html]
   resource: Reporters [/bjc-r/cur/programming/intro/sprites/sprites-reporters.html]
