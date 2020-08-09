@@ -2,10 +2,9 @@ title: Welcome to Snap<em>!</em>
 
 {
 h2: Big Ideas
-big-idea: Explore abstraction through Snap<em>!</em> blocks as it relates to Computer Science (CS)
-big-idea: Explore sequential programming
-big-idea: Understand and analyze some of the impact of the internet on our culture
-
+große-Idee: Erkunde die Abstraktion durch Snap! Blöcke, wie es sich auf Informatik (CS) 
+große-Idee: bezieht: Erkunden Sie sequenzielle Programmierung 
+große-Idee:: Verstehen und analysieren Sie einige der Auswirkungen des Internets auf unsere Kultur
 //   video: Video Lecture: Abstraction [https://coursesharing.org/courses/6/lectures/7]
   reading: Blown To Bits: Chapter 1 [http://www.bitsbook.com/wp-content/uploads/2008/12/chapter1.pdf]
 
